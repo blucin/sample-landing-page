@@ -10,7 +10,6 @@
 		Footer,
 		FooterCopyright,
 		FooterLinkGroup,
-		FooterBrand,
 		FooterLink,
 		FooterIcon
 	} from 'flowbite-svelte';
