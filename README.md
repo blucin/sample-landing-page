@@ -1,3 +1,7 @@
+# Svelte Landing Page
+
+A landing page made using sveltekit. This project is part of the internship program of **CodSoft**
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
